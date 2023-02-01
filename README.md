@@ -3,7 +3,9 @@ align="center">A passionate and curious Web Developer developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shifakhan-24&label=Profile%20views&color=0e75b6&style=flat" alt="shifakhan-24" /> </p>
 
-<img align='right' scr="https://github.com/ShifaKhan-24/ShifaKhan-24/blob/main/coding.gif" alt="coding" width="400"/>
+<!-- <img align='right' scr="https://github.com/ShifaKhan-24/ShifaKhan-24/blob/main/coding.gif" alt="coding" width="400"/> -->
+<img align = "right" src = "https://static.vecteezy.com/system/resources/previews/002/214/642/original/web-designer-and-programmer-free-vector.jpg" width = "500rem" >
+
 
 
 - 🔭 I’m currently working on **improving my Front-end.**
