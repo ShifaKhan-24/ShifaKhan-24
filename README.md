@@ -1,6 +1,6 @@
 align="center">A passionate and curious Web Developer developer from India</h3>
 
-<p><img align='right' scr="https://github.com/ShifaKhan-24/ShifaKhan-24/blob/main/coding.gif" alt="coding" width="400"></p>
+<img align='right' scr="https://github.com/ShifaKhan-24/ShifaKhan-24/blob/main/coding.gif" alt="coding" width="400"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shifakhan-24&label=Profile%20views&color=0e75b6&style=flat" alt="shifakhan-24" /> </p>
 
