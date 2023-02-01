@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **improving my Front-end.**
 
-- 🌱 I’m currently learning **avaScript,Reactjs.**
+- 🌱 I’m currently learning **JavaScript,Reactjs.**
 
 - 👯 I’m looking to collaborate on **Web development projects.**
 
