@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Shifa Khan</h1>
 <h3 align="center">A passionate and curious Web Developer developer from India</h3>
 
+<img scr="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" align="right" width="400" alt="img" />
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shifakhan-24&label=Profile%20views&color=0e75b6&style=flat" alt="shifakhan-24" /> </p>
 
 - 🔭 I’m currently working on **Improving my Front-end.**
