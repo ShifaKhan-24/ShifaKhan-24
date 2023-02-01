@@ -15,7 +15,7 @@
 - 📫 How to reach me **shifa24khan@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1yLqOYCDUInDcYAA0Do1xQ-j1vxiFsUU6/view?usp=sharing](https://drive.google.com/file/d/1yLqOYCDUInDcYAA0Do1xQ-j1vxiFsUU6/view?usp=sharing)
-<img align = "right" src = "https://github.com/ShifaKhan-24/ShifaKhan-24/blob/main/coding.gif" width = "100%" >
+<img align = "right" src = "https://github.com/ShifaKhan-24/ShifaKhan-24/blob/main/coding.gif" width = "500rem" >
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/shifa-zakir-khan-178626215" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shifa-zakir-khan-178626215" height="30" width="40" /></a>
