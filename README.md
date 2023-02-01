@@ -1,7 +1,7 @@
-<img src="https://github.com/ShifaKhan-24/ShifaKhan-24/blob/main/github_bg.gif" align="center" style="width: 100%">
-</div>  
 
-align="center">A passionate and curious Web Developer developer from India</h3>
+</div>  
+<img src="https://github.com/ShifaKhan-24/ShifaKhan-24/blob/main/github_bg.gif" alt="bg image" width="70%">
+<h3>align="center">A passionate and curious Web Developer developer from India</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shifakhan-24&label=Profile%20views&color=0e75b6&style=flat" alt="shifakhan-24" /> </p>
