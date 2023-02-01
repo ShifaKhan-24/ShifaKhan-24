@@ -1,14 +1,12 @@
-<h1 align="center">Hi 👋, I'm Shifa Khan</h1>
-<h3 align="center">A passionate and curious Web Developer developer from India</h3>
+align="center">A passionate and curious Web Developer developer from India</h3>
 
-<img scr="!https://user-images.githubusercontent.com/94692552/215966805-9bbbdfb1-e757-40a1-a28c-a19f287f8254.png
-" align="right" width="400" alt="img" />
+<img scr="https://tenor.com/en-IN/view/programming-gif-25868426.gif" align="right" width="400" alt="img" />
 
-<p align="left"> <img src="https://tenor.com/en-IN/view/programming-gif-25868426" alt="shifakhan-24" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shifakhan-24&label=Profile%20views&color=0e75b6&style=flat" alt="shifakhan-24" /> </p>
 
-- 🔭 I’m currently working on **Improving my Front-end.**
+- 🔭 I’m currently working on **improving my Front-end.**
 
-- 🌱 I’m currently learning **JavaScript,Reactjs.**
+- 🌱 I’m currently learning **avaScript,Reactjs.**
 
 - 👯 I’m looking to collaborate on **Web development projects.**
 
