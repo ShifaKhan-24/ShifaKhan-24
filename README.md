@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shifakhan-24&label=Profile%20views&color=0e75b6&style=flat" alt="shifakhan-24" /> </p>
 
-- 🔭 I’m currently working on **improving my Front-end.**
+- 🔭 I’m currently working on **Improving my Front-end.**
 
-- 🌱 I’m currently learning **avaScript,Reactjs.**
+- 🌱 I’m currently learning **JavaScript,Reactjs.**
 
 - 👯 I’m looking to collaborate on **Web development projects.**
 
