@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shifa Khan</h1>
-<img src="https://github.com/ShifaKhan-24/ShifaKhan-24/blob/main/github_bg.gif" alt="bg image" width="100%">
+<img align = "right" src = "https://github.com/ShifaKhan-24/ShifaKhan-24/blob/main/coding.gif" width = "100%" >
 <h3 align="center">A passionate and curious Web Developer developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shifakhan-24&label=Profile%20views&color=0e75b6&style=flat" alt="shifakhan-24" /> </p>
@@ -15,7 +15,7 @@
 - 📫 How to reach me **shifa24khan@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1yLqOYCDUInDcYAA0Do1xQ-j1vxiFsUU6/view?usp=sharing](https://drive.google.com/file/d/1yLqOYCDUInDcYAA0Do1xQ-j1vxiFsUU6/view?usp=sharing)
-<img align = "right" src = "https://github.com/ShifaKhan-24/ShifaKhan-24/blob/main/coding.gif" width = "500rem" >
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/shifa-zakir-khan-178626215" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shifa-zakir-khan-178626215" height="30" width="40" /></a>
